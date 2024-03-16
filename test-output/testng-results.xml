@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-15T22:16:07 EET" name="Default suite" finished-at="2024-03-15T22:16:44 EET" duration-ms="36260">
+    <groups>
+    </groups>
+    <test started-at="2024-03-15T22:16:07 EET" name="Default test" finished-at="2024-03-15T22:16:44 EET" duration-ms="36260">
+      <class name="javabasics.SmartBuy">
+        <test-method is-config="true" signature="mybefortest()[pri:0, instance:javabasics.SmartBuy@1d470d0]" started-at="2024-03-15T22:16:07 EET" name="mybefortest" finished-at="2024-03-15T22:16:11 EET" duration-ms="4181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mybefortest -->
+        <test-method signature="mytest()[pri:0, instance:javabasics.SmartBuy@1d470d0]" started-at="2024-03-15T22:16:12 EET" name="mytest" finished-at="2024-03-15T22:16:42 EET" duration-ms="29971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mytest -->
+        <test-method is-config="true" signature="after()[pri:0, instance:javabasics.SmartBuy@1d470d0]" started-at="2024-03-15T22:16:42 EET" name="after" finished-at="2024-03-15T22:16:44 EET" duration-ms="2013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- javabasics.SmartBuy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
